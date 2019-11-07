@@ -1,0 +1,12 @@
+{
+    "name": "freshcommerce/timer-tracking-redbooth",
+    "authors": [
+        {
+            "name": "ArcaDelDelirio",
+            "email": "elarcadeldelirio@gmail.com"
+        }
+    ],
+    "require": {
+        "knpuniversity/oauth2-client-bundle": "^1.30"
+    }
+}
